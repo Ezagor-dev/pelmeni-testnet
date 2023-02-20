@@ -2,18 +2,18 @@
 
 ### Rules
 
- - Participants must follow our pages on our [Discord](https://discord.gg/zieshanetwork), [Telegram](https://t.me/ZieshaNetworkOfficial) and [Twitter](https://twitter.com/ZieshaNetwork) and be aware of announcements published.
+ - Participants must follow our pages on our https://discord.gg/zieshanetwork, https://t.me/ZieshaNetworkOfficial and https://twitter.com/ZieshaNetwork and be aware of announcements published.
  - You have to update your node software when asked. Outdated nodes will not receive their rewards.
  - During the testnet, we may be required to resync our nodes or restart building blocks from height 0. Do not panic! We will keep track of all participants' contribution even after fresh starts!
 
 ### How to run a Bazuka node?
 
 If you only want to run a Ziesha node and do not want to execute Zero Contract or
-mine Ziesha, you will only need to install ![zoro](https://github.com/ziesha-network/bazuka). In case you also
+mine Ziesha, you will only need to install https://github.com/ziesha-network/bazuka. In case you also
 want to mine Ziesha, there are two roads:
 
- 1. Mine as a solo-miner: You will need to install ![zoro](https://github.com/ziesha-network/zoro) (The Main Payment Network executor) and also the ![uzi-miner](https://github.com/ziesha-network/uzi-miner) (A RandomX CPU miner).
- 2. Mine in a mining pool: You will only need to install ![uzi-miner](https://github.com/ziesha-network/uzi-miner)
+ 1. Mine as a solo-miner: You will need to install https://github.com/ziesha-network/zoro (The Main Payment Network executor) and also the https://github.com/ziesha-network/uzi-miner (A RandomX CPU miner).
+ 2. Mine in a mining pool: You will only need to install https://github.com/ziesha-network/uzi-miner
 
 **How to install `bazuka`?**
 
