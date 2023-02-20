@@ -71,13 +71,13 @@ Available flags:
 Example to initialize a node with 2 bootstrap nodes `65.108.193.133:8765` on the `pelmeni` network:
 
 ```
-bazuka init --network pelmeni --bootstrap 65.108.193.133:8765 --mnemonic "YOUR OLD MNEMONIC PHRASE"
+bazuka init --network pelmeni-7 --bootstrap 65.108.193.133:8765 --mnemonic "YOUR OLD MNEMONIC PHRASE"
 ```
 
 If you don't have a mnemonic phrase and you would like `bazuka` to generate one for you:
 
 ```
-bazuka init --network pelmeni --bootstrap 65.108.193.133:8765
+bazuka init --network pelmeni-7 --bootstrap 65.108.193.133:8765
 ```
 
 ***Make sure you write down the mnemonic phrase generated for you somewhere safe! All your rewards will go into this public-key, in the future mainnet!***
